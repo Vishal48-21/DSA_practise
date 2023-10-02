@@ -2,6 +2,6 @@
 
 S.No. | Topic | Question Name | Logic Used | Solution | Status |
 ------|---------------|------------|-------|------|------|
-1 | ![](https://img.shields.io/badge/heaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Operations to collect elements](https://leetcode.com/contest/biweekly-contest-114/problems/minimum-operations-to-collect-elements/) | Sorting | [Solution](https://github.com/Vishal48-21/DSA_practise/blob/main/Arrays/minimum-operations-to-collect-all-elements.py) | ✅ |
+1 | ![](https://img.shields.io/badge/heaps-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Minimum Operations to Make an Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/) | Sorting | [Solution](https://github.com/Vishal48-21/DSA_practise/blob/main/Priority_Queue/minimum-number-of-operations-to-make-array-empty.cpp) | ✅ |
 
 
