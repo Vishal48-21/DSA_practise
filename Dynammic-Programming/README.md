@@ -3,6 +3,7 @@
 S.No. | Topic | Question Name | Logic Used | Solution | Status |
 ------|---------------|------------|-------|------|------|
 1 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Integer Break](https://leetcode.com/problems/integer-break/description/) | Maths | [Solution](https://github.com/Vishal48-21/DSA_practise/blob/main/Maths/majority-element-ii.cpp) | ✅ |
+2 | ![](https://img.shields.io/badge/DP-f0772b?style=for-the-badge&logo=array&logoColor=black) | [Max Dot Product of two subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/description/) | Top Down + memoization | [Solution]() | ✅ |
 
 
 
